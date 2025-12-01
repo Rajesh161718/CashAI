@@ -17,6 +17,14 @@
 
 Built with **React Native** and **Expo**, and powered by **Supabase**, CashLoop offers real-time synchronization, offline capabilities, and a stunning UI that makes finance fun.
 
+## 📱 Download
+
+<a href="https://github.com/Rajesh161718/cashloop/releases/latest">
+  <img src="https://img.shields.io/badge/Download-Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download Android APK" />
+</a>
+
+> **Note**: This app is currently available for Android. iOS version coming soon.
+
 ## ✨ Key Features
 
 - **💸 Loan Tracking**: Keep track of who owes you and who you owe. Never forget a debt again.
