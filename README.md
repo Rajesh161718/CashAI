@@ -94,4 +94,4 @@ For security concerns, please review our [Security Policy](SECURITY.md).
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Rajesh Biswal.
