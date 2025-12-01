@@ -57,7 +57,7 @@ Built with **React Native** and **Expo**, and powered by **Supabase**, CashLoop 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/cashloop.git
+    git clone https://github.com/Rajesh161718/cashloop.git
     cd cashloop
     ```
 
